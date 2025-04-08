@@ -1,4 +1,4 @@
-## Hi
+![Image Alt](https://github.com/TechyElle/TechyElle/blob/fae7cfe351428172bdc4c75437beedfccd9656c9/GREEN%20MATRIX.gif)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Engineering+Student;She/her;Iska+from+PUP)](https://git.io/typing-svg)
 <!--
