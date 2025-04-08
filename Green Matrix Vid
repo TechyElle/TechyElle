@@ -1,1 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Green Code Rain-Matrix Text Reveal Loop</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: black;
+      color: limegreen;
+      font-family: 'Courier New', monospace;
+    }
 
+    canvas {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <canvas id="matrix"></canvas>
+
+  <script>
+    const canvas = document.getElementById('matrix');
+    const ctx = canvas.getContext('2d');
+
+    // Set canvas to full screen
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+
+    // Characters to display (binary-like)
+    const characters = '01';
+    const charactersArray = characters.split('');
+
+    const fontSize = 14;
+    const columns = canvas.width / fontSize;
+
+    // Create an array of drops (one per column)
+    const drops = [];
+    for (let i = 0; i < columns; i++) {
+      drops[i] = Math.floor(Math.random() * canvas.height);
+    }
+
+    // Text to reveal
+    const revealText = "Hi, I'm Elle";
+    const textSize = 48; // Font size for the text
+    const textThickness = 4; // Thickness for the text
+    let revealProgress = 0; // Tracks how much of the text has been revealed
+    let isPaused = false; // Flag to indicate if the reveal is paused
+
+    function draw() {
+      // Black background with slight transparency to create trailing effect
+      ctx.fillStyle = 'rgba(0, 0, 0, 0.05)';
+      ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+      // Set text color and font for the binary rain
+      ctx.fillStyle = 'limegreen';
+      ctx.font = `${fontSize}px 'Courier New'`;
+
+      // Draw the binary rain
+      for (let i = 0; i < drops.length; i++) {
+        const text = charactersArray[Math.floor(Math.random() * charactersArray.length)];
+        ctx.fillText(text, i * fontSize, drops[i] * fontSize);
+
+        // Reset drop if it reaches the bottom
+        if (drops[i] * fontSize > canvas.height && Math.random() > 0.975) {
+          drops[i] = 0;
+        }
+
+        // Move the drop down
+        drops[i]++;
+      }
+
+      // Draw the revealed text
+      if (!isPaused) {
+        if (revealProgress < revealText.length) {
+          revealProgress += 0.1; // Fast reveal speed
+        } else {
+          // Pause for a moment before resetting
+          isPaused = true;
+          setTimeout(() => {
+            revealProgress = 0;
+            isPaused = false;
+          }, 1000); // 1 second delay
+        }
+      }
+
+      // Set text style for the revealed text
+      ctx.fillStyle = 'limegreen';
+      ctx.font = `bold ${textSize}px 'Courier New'`;
+      ctx.textAlign = 'center';
+      ctx.textBaseline = 'middle';
+
+      // Calculate the position for the text
+      const x = canvas.width / 2;
+      const y = canvas.height / 2;
+
+      // Draw the revealed portion of the text
+      const revealedText = revealText.substring(0, Math.floor(revealProgress));
+      ctx.fillText(revealedText, x, y);
+    }
+
+    // Render the animation
+    setInterval(draw, 50);
+
+    // Resize canvas on window resize
+    window.addEventListener('resize', () => {
+      canvas.width = window.innerWidth;
+      canvas.height = window.innerHeight;
+    });
+  </script>
+</body>
+</html>
