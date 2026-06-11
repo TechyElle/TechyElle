@@ -9,21 +9,6 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Cielle;She/her;Computer+Engineering+Student;Filipina+Frontend+Dev;Cat+Lover+:3;function+findQuestion(42)" alt="I'm Cielle, She/her, Computer Engineering Student, Filipina Frontend Dev, Cat Lover :3"></a>
 </div>
 
-## 👩‍💻 About Me
-
-Hi! I'm **Cielle Mae Peñamora** — a Computer Engineering student from the **Philippines** 🇵🇭 studying at the **Polytechnic University of the Philippines (PUP)**. I'm passionate about turning ideas into code and solving real-world problems through technology.
-
-### Quick Facts
-- 🏫 **BSCPE Student** at PUP, Department of Computer Engineering
-- 📍 Based in the **Philippines**
-- 🔭 Currently building **Xontrix** — an electronics e-commerce platform (React + Vite)
-- 🌱 Learning **OOP with Python**, **Web & Mobile Systems**, **Engineering Data Analysis**
-- 🎨 Also passionate about **UI/UX Design** — love the creative side of tech
-- 🤝 Active in **PUP SONS** (Student Organization) & **IEEE Student Branch**
-- ✨ Advocate for clean code, consistent commits, and continuous learning
-- 😄 Pronouns: **she/her**
-- ⚡ Fun fact: Dark academia aesthetics + green terminal vibes = my vibe 🌿
-
 ---
 
 ## 🛠️ Languages & Tools
