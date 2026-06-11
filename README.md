@@ -2,22 +2,15 @@
 
 <!-- Header -->
 <div align="center">
-  <img width="100%" alt="welcome to my profile" src="./Carol42-main/assets/header.png" />
+  <img width="100%" alt="welcome to my profile" src="./assets/header.png" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="./Carol42-main/assets/hi.gif" width="80" alt="hi" />
+  <img src="./assets/hi.gif" width="80" alt="hi" />
   <br />
   <br />
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;She%2Fher;Based+in+PH+%F0%9F%87%B5%F0%9F%87%AD;Problem+Solver+%7C+Lifetime+Learner)](https://git.io/typing-svg)
 </div>
-
-
----
-
-> Inspired by the README design from <a href="https://github.com/Carol42/Carol42">Carol42</a>.
-
----
 
 ## 👩‍💻 About Me
 
@@ -111,6 +104,11 @@ Hi! I'm **Cielle Mae Peñamora** — a Computer Engineering student from the **P
 
 <!-- Footer -->
 <div align="center" style="margin-top: 18px;">
-  <img alt="" width="100%" src="./Carol42-main/assets/footer.png" />
+  <img alt="" width="100%" src="./assets/footer.png" />
 </div>
 
+---
+
+> Inspired by the README design from <a href="https://github.com/Carol42/Carol42">Carol42</a>.
+
+---
