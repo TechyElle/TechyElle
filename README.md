@@ -5,11 +5,8 @@
   <img width="100%" alt="welcome to my profile" src="./assets/header.png" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="./assets/hi.gif" width="80" alt="hi" />
-  <br />
-  <br />
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;She%2Fher;Based+in+PH+%F0%9F%87%B5%F0%9F%87%AD;Problem+Solver+%7C+Lifetime+Learner)](https://git.io/typing-svg)
+<div align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Cielle;She/her;Computer+Engineering+Student;Filipina+Frontend+Dev;Cat+Lover+:3;function+findQuestion(42)" alt="I'm Cielle, She/her, Computer Engineering Student, Filipina Frontend Dev, Cat Lover :3"></a>
 </div>
 
 ## 👩‍💻 About Me
