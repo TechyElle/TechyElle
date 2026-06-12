@@ -24,7 +24,8 @@
 <!--<img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/carol42/carol42?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">-->
 <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/gluten-free.svg" alt="gluten free" height="22px"></a>
 <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg" alt="contains cat gifs" height="22px"></a>
-
+<a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" alt="powered by electricity" height="22px"></a>
+</div>
 
 ---
 
@@ -57,8 +58,9 @@
 <div align="center">
   
   [![GitHub](https://img.shields.io/github/followers/TechyElle?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@TechyElle)](https://github.com/TechyElle)
+  [![LinkedIn](https://img.shields.io/static/v1?label&message=/in/Cielle Mae Peñamora&color=0A66C2&style=for-the-badge&logo=linkedin)(https://www.linkedin.com/in/ms-ciellepe%C3%B1amora/)
   [![Email](https://img.shields.io/static/v1?label&message=pciellemae@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:pciellemae@gmail.com)
-  
+
 </div>
 
 ---
