@@ -6,8 +6,13 @@
 </div>
 
 <div align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Cielle;She/her;Computer+Engineering+Student;Filipina+Frontend+Dev;Cat+Lover+:3;" alt="I'm Cielle, She/her, Computer Engineering Student, Filipina Frontend Dev, Cat Lover :3"></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Elle;She/her;Computer+Engineering+Student;Filipina+Frontend+Dev;Cat+Lover+:3;" alt="I'm Cielle, She/her, Computer Engineering Student, Filipina Frontend Dev, Cat Lover :3"></a>
 </div>
+
+<table align="right">
+ <tr><td>
+   <a href="https://github.com/TechyElle/TechyElle/blob/main/README.md"><img src="./assets/philippine_flag.png" alt="Philippine flag" width="17px"> Philippines</a></td></tr>
+</table>
 
 ---
 
