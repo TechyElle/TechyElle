@@ -1,8 +1,10 @@
 <div id="top"></div>
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
+
+<!-- Header -->
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="./assets/header.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Caroline;She/her;Computer+Engineering+Student;Brazilian+Frontend+Dev;Cat+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Elle;She/her;Computer+Engineering+Student;Filipina+Frontend+Dev;Cat+Lover+:3;" alt="I'm Cielle, She/her, Computer Engineering Student, Filipina Frontend Dev, Cat Lover :3"></a>
 </div>
 
 <a href="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml/badge.svg" alt="lastfm-to-markdown workflow status" ></a>
@@ -10,17 +12,18 @@
 <a href="https://github.com/Carol42/Carol42/actions/workflows/recent-activity.yml"><img src="https://github.com/Carol42/Carol42/actions/workflows/recent-activity.yml/badge.svg" alt="Recent Activity workflow status" ></a>
 
 <table align="right">
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README.md"><img src="./assets/us_flag.png" alt="US flag" width="17px"> English</a></td></tr>
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md"><img src="./assets/br_flag.png" alt="Brazil flag" width="17px">  Português</a></td></tr>
+ <tr><td>
+   <a href="https://github.com/TechyElle/TechyElle/blob/main/README.md"><img src="./assets/philippine_flag.png" alt="Philippine flag" width="17px"> Philippines</a></td></tr>
 </table>
 
 <h2>ℹ️ Project info</h2>
 <div>
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Carol42/Carol42?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
-<img alt="Last commit" src="https://img.shields.io/github/last-commit/carol42/carol42?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
-<!--<img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/carol42/carol42?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">-->
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/TechyElle/TechyElle?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/TechyElle/TechyElle?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/TechyElle/TechyElle?color=181717&logo=github&style=for-the-badge&logoColor=181717" height="22px">
+<img alt="Last commit" src="https://img.shields.io/github/last-commit/TechyElle/TechyElle?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+<img alt="Commit activity" src="https://img.shields.io/github/commit-activity/m/TechyElle/TechyElle?color=F05032&logo=git&logoColor&style=for-the-badge" height="22px">
+    
 <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/gluten-free.svg" alt="gluten free" height="22px"></a>
 <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg" alt="contains cat gifs" height="22px"></a>
 <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/powered-by-electricity.svg" alt="powered by electricity" height="22px"></a>
@@ -28,21 +31,14 @@
 
 
 <h2>:busts_in_silhouette: How to reach me</h2>
-<a href="https://github.com/Carol42">
-    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@Carol42" height="22px">
+<a href="https://github.com/TechyElle">
+    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/TechyElle?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@TechyElle" height="22px">
 </a>
-<a href="https://codepen.io/Carol42">
-    <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/Carol42&color=000000&style=for-the-badge&logo=codepen" height="22px" />
+<a href="https://www.linkedin.com/in/ms-ciellepe%C3%B1amora">
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/Cielle Mae Peñamora&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
-<a href="https://linkedin.com/in/carol42">
-    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
-</a>
-<a href="https://twitter.com/carol42helo/">
-    <img alt="Link to my Twitter" src="https://img.shields.io/static/v1?style=for-the-badge&label&message=@carol42helo&color=000&logo=x" height="22px">
-</a>
-</a>
-<a href="mailto:carol42.helo@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
+<a href="mailto:pciellemae@gmail.com">
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=pciellemae@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
 </a>
 </br>
 
@@ -71,10 +67,6 @@
 <code><img title="GIMP" alt="GNU Image Manipulation Program - GIMP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" /></code>
 <code><img title="Linux" alt="linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
 </br></br>
-<details>
-<summary>Click here for a cute surprise! :3</summary>
-<img src="https://cat-gifs.cyclic.app">
-</details>
 
 <h2>:books: My personal portfolio</h2>
 <a href="https://github.com/Carol42/portfolio">
