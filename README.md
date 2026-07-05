@@ -35,7 +35,7 @@
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/TechyElle?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@TechyElle" height="22px">
 </a>
 <a href="https://www.linkedin.com/in/ms-ciellepe%C3%B1amora">
-    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/Cielle Mae Peñamora&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/Cielle%20Mae%20Pe%C3%B1amora&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
 <a href="mailto:pciellemae@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=pciellemae@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
